@@ -1,0 +1,17 @@
+.review-container{
+    margin: 50px auto;
+    
+}
+.btn-clear-cart{
+    display: flex;
+    justify-content: space-between;
+    width:90%;
+    margin: 10px auto;
+    background-color: #FF3030;
+    border-radius: 4px;
+    color: white;
+    font-size: 21px;
+    height: 56px;
+    align-items: center;
+
+}
