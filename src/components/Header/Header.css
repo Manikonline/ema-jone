@@ -15,3 +15,7 @@
 .Header a:hover{
     color: orange;
 }
+.text-white{
+    color:white;
+    padding:8px;
+}
